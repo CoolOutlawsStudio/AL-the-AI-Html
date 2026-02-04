@@ -1,2 +1,2 @@
-# AL-the-AI-Html
+# AL the AI Html
 AL is a pathfinding AI who just wants to get to the end. in html form...
